@@ -1,26 +1,17 @@
-# TestProject
+# What does this project serve?
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+This project is basically a Banl Account ledger, in which you can perform Credit and Debit functionality by pressing credit and debit buttons respectively. Below that there are tabs All, Spendings, Recieved, and these tabs separates the transaction into three categories.
 
-## Development server
+# How to use this project?
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+1. Clone it.
+2. Run the project by using following command `npm install`.
+3. Run on localhost by using following command `ng serve`. 
 
-## Code scaffolding
+## License
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
