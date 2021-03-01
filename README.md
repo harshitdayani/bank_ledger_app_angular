@@ -1,6 +1,6 @@
 # What does this project serve?
 
-This project is basically a Banl Account ledger, in which you can perform Credit and Debit functionality by pressing credit and debit buttons respectively. Below that there are tabs All, Spendings, Recieved, and these tabs separates the transaction into three categories.
+This project is basically a Bank Account ledger, in which you can perform Credit and Debit functionality by pressing credit and debit buttons respectively. Below that there are tabs All, Spendings, Recieved, and these tabs separates the transaction into three categories.
 
 ## How to use this project?
 
